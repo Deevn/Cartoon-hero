@@ -51,8 +51,12 @@ main p{
 }
 
 .about{
-    margin-right: 300px;
+    margin-right: 450px;
     text-align: justify;
+}
+.friends{
+    margin-right: 450px;
+    text-align: jutify;
 }
 
 .caption{
