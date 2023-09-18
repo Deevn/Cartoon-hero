@@ -1,0 +1,102 @@
+
+body{
+    margin: 0;
+}
+
+header{
+    background-color:  royalblue;
+    text-align: center;
+}
+
+header h1{
+    color: white;
+    padding: 20px 20px 20px;
+}
+
+header img{
+    margin-top: 60px;
+    height: 400px; 
+    width: 400px; 
+    border-radius: 300px;
+    border: 30px solid #FFE468;
+    outline: 10px solid white;
+}
+
+header h1{   
+    font-family: 'Bungee', cursive;
+    font-size: 65px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: lightcyan;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: darkcyan;
+}
+
+main{
+    margin: 0px 0px 0px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    width: 50%;
+    float: left;
+}
+
+main h2{
+    margin: 0px 20px 0px;
+    font-family: 'Bungee';
+    font-size: 40px;
+    color: royalblue;
+}
+
+main p{
+    margin: 0px 20px 0px;
+}
+
+.about{
+    margin-right: 300px;
+    text-align: justify;
+}
+
+.caption{
+    font-size: 12px;
+    color: lightslategray;
+}
+
+main img{
+    margin: 40px 20px 10px;
+}
+
+.two{
+    width: 50%;
+    float: right;
+}
+
+.two img{
+    margin-left: 200px;
+    width: 600px;
+    height: 1190px;
+}
+
+footer p{
+    width: 100%;
+    margin-top: 1400px;
+    height: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    background-color: royalblue;
+}
+
+a{
+    color: royalblue;
+    font-size: 30px
+}
+
+a:hover{
+    color: white;
+    background-color: gold;
+}
+
+
+.footerlast{
+    color: white;
+}
